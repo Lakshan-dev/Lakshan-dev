@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning .net, React, Node JS, Angular, Flutter, Python<br><br>💬 Ask me about php, java, Javascript, html, boostrap, adobe photoshop<br><br>📫 How to reach me nmlmadhusanka@gmail.com<br><br>📄 Know about my experiences https://bit.ly/Lakshan-resume
+Hi 👋, I'm Lakshan Madhusanka.
+I am following a BICT degree in University of Ruhuna in Sri Lanka.<br><br>
+🌱 I’m currently learning .net, React, Node JS, Angular, Flutter, Python<br>📫 How to reach me nmlmadhusanka@gmail.com<br>📄 Know about my experiences https://bit.ly/Lakshan-resume
 
 
 ## 🌐 Socials:
