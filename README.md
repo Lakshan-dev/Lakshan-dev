@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Lakshan Madhusanka.
-Graduated, Bachelor of ICT (Hons) Faculty of Technology, University of Ruhuna.<br><br>
-Cureecntly working as a software developer.
-🌱 I’m currently learning .net, React, Node JS, Angular, Flutter, Python<br>📫 How to reach me nmlmadhusanka@gmail.com<br>📄 Know about my experiences https://bit.ly/Lakshan-resume
+🌱 I’m currently working as a software developer.<br>📫 How to reach me nmlmadhusanka@gmail.com<br>📄 Know about my experiences https://bit.ly/Lakshan-resume
 
 
 ## 🌐 Socials:
